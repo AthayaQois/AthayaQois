@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/1-repos-per-language.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" />
+  <!-- <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/2-most-commit-language.svg" width="49%" /> -->
 </p>
 
 <p align="center">
