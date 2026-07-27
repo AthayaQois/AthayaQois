@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/3-stats-by-day-cur.svg" width="49%" />
+  <!-- <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/3-stats-by-day-cur.svg" width="49%" /> -->
   <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/4-productive-time.svg" width="49%" />
 </p>
