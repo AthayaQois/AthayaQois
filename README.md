@@ -4,7 +4,7 @@
 ## 📊 Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/0-profile-details.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/AthayaQois/AthayaQois/main/profile-summary-card-output/dracula/0-profile-details.svg" width="70%" />
 </p>
 
 <p align="center">
